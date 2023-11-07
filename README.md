@@ -1,3 +1,2 @@
-# BDL-Guide
+# BDL GUIDE
 
-BDL 语言指导
